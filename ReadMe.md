@@ -11,5 +11,5 @@ dm me if you need help
 
 Contact Info :
 discord userid = 1319280095474745384
-discord username = hook.op
+discord username = deaggilisspees
 --
